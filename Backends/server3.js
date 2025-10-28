@@ -1,0 +1,1 @@
+const {getAllUsers} = require('./controllers/userController.js')
